@@ -1,13 +1,13 @@
 {
-  "users": [
+  "pedals": [
     {
-      "nome": "Valdemir",
-      "email": "filhux@gmail.com"
-    },
-    {
-      "id": "10",
-      "nome": "Joice",
-      "email": "a@a.com"
+      "id": "1",
+      "nome": "Pedal para Forquilha",
+      "horario": "",
+      "data": "",
+      "destino": "Forquilha",
+      "concentracao": "Arco",
+      "desc": "Usar blusa do grupo. Usar capacete."
     }
   ]
 }
